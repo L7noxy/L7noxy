@@ -5,6 +5,7 @@
 - 😄 Pronouns: ele/dele
 
   <img src="https://github-readme-stats.vercel.app/api?username=L7noxy&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=L7noxy&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple">
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
