@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/gabriel-castanhel-b63a45312/)
 [![GitHub followers](https://img.shields.io/github/followers/L7noxy?label=Follow&style=social)](https://github.com/-L7noxy)
-![profile-views](https://komarev.com/ghpvc/?username=L7noxy-sc-08&color=blue)
+![profile-views](https://komarev.com/ghpvc/?username=L7noxy-sc-08&color=red)
 
 <br>
 
