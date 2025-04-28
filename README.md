@@ -1,8 +1,9 @@
-# Olá, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40px" />
+# Olá, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="35px" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castanhel-b63a45312/)
 [![GitHub Followers](https://img.shields.io/github/followers/L7noxy?style=social)](https://github.com/L7noxy)
 ![profile-views](https://komarev.com/ghpvc/?username=L7noxy-sc-08&color=red)
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%89;Desenvolvedor+Full-Stack+em+formação!+🚀)](https://git.io/typing-svg)
@@ -16,7 +17,6 @@
 🎧 Sempre programando com música!
 
 😴 Se não estiver programando, estou dormindo.
-
 
 ---
 
@@ -35,7 +35,7 @@ class SobreMim extends Desenvolvedor {
 console.log(gabriel);
 ```
 
-🚀 Tecnologias que domino
+## 🚀 Tecnologias que domino
 <div style="display: flex; flex-wrap: wrap; gap: 8px;"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
@@ -50,12 +50,12 @@ console.log(gabriel);
 
 ---
 
-🛠️ Ferramentas que utilizo
+## 🛠️ Ferramentas que utilizo
 <div style="display: flex; flex-wrap: wrap; gap: 8px;"> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> </div>
 
 ---
 
-📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 <p align="center" style="background: rgba(255, 255, 255, 0.15); border-radius: 90px; padding: 20px; backdrop-filter: blur(10px);">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L7noxy&amp;show_icons=true&amp;theme=holi&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7noxy&amp;layout=compact&amp;langs_count=8&amp;theme=holi" alt="Top langs"/>
