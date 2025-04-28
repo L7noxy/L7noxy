@@ -22,17 +22,24 @@
 
 ## 👨‍💻 Sobre Mim
 
-```js
-import Desenvolvedor from 'Gabriel';
+```python
+class Desenvolvedor:
+    def __init__(self, nome, trabalho, local):
+        self.nome = nome
+        self.trabalho = trabalho
+        self.local = local
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Gabriel da Cunha Castanhel';
-  trabalho = 'Estudante de Desenvolvimento de Sistemas | SENAI';
-  local    = 'Florianópolis, SC - Brasil';
-  objetivo: 'Futuro Desenvolvedor Full Stack'
-}
+class SobreMim(Desenvolvedor):
+    def __init__(self):
+        super().__init__(
+            nome='Gabriel da Cunha Castanhel',
+            trabalho='Estudante de Desenvolvimento de Sistemas | SENAI',
+            local='Florianópolis, SC - Brasil'
+        )
+        self.objetivo = 'Futuro Desenvolvedor Full Stack'
 
-console.log(gabriel);
+gabriel = SobreMim()
+print(gabriel.__dict__)
 ```
 
 ## 🚀 Tecnologias que domino
@@ -48,12 +55,22 @@ console.log(gabriel);
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" alt="C#"/>
 </div>
 
----
 
 ## 🛠️ Ferramentas que utilizo
-<div style="display: flex; flex-wrap: wrap; gap: 8px;"> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> </div>
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 8px;>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> 
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> 
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"/> 
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> 
+</div>
+
+
 
 ## 📊 Estatísticas GitHub
 <p align="center" style="background: rgba(255, 255, 255, 0.15); border-radius: 90px; padding: 20px; backdrop-filter: blur(10px);">
