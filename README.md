@@ -18,9 +18,16 @@
 
 😴 Se não estiver programando, estou dormindo.
 
+<br/>
+
 ---
 
+<br/>
+
 ## 👨‍💻 Sobre Mim
+
+<br/>
+
 
 ```python
 class Desenvolvedor:
@@ -42,7 +49,12 @@ gabriel = SobreMim()
 print(gabriel.__dict__)
 ```
 
+<br/>
+
 ## 🚀 Tecnologias que domino
+
+<br/>
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px;"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
@@ -55,8 +67,11 @@ print(gabriel.__dict__)
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" alt="C#"/>
 </div>
 
+<br/>
 
 ## 🛠️ Ferramentas que utilizo
+
+<br/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> 
@@ -70,17 +85,27 @@ print(gabriel.__dict__)
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> 
 </div>
 
-
+<br/>
 
 ## 📊 Estatísticas GitHub
+
+<br/>
+
 <p align="center" style="background: rgba(255, 255, 255, 0.15); border-radius: 90px; padding: 20px; backdrop-filter: blur(10px);">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L7noxy&amp;show_icons=true&amp;theme=holi&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7noxy&amp;layout=compact&amp;langs_count=8&amp;theme=holi" alt="Top langs"/>
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 <picture align="center"> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L7noxy/L7noxy/output/github-contribution-grid-snake-dark.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/L7noxy/L7noxy/output/github-contribution-grid-snake.svg"> </picture>
 <div/>
+    
+<br/>
+
