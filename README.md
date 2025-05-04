@@ -4,6 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/L7noxy?style=social)](https://github.com/L7noxy)
 ![profile-views](https://komarev.com/ghpvc/?username=L7noxy-sc-08&color=red)
 
+![Image](https://github.com/user-attachments/assets/8cc5e977-a563-43f3-967e-1e8b999fc9cd)
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%89;Desenvolvedor+Full-Stack+em+formação!+🚀)](https://git.io/typing-svg)
@@ -97,6 +98,7 @@ print(gabriel.__dict__)
 </p>
 
 <br/>
+
 
 ---
 
