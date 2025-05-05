@@ -29,7 +29,6 @@
 
 <br/>
 
-
 ```python
 class Desenvolvedor:
     def __init__(self, nome, trabalho, local):
