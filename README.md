@@ -13,7 +13,7 @@
 
 📚 Apaixonado por Programação, Matemática e Física.
 
-🎮 Gosto de jogar Xadrez e Games no tempo livre.
+♟️ Gosto de jogar Xadrez e Jogos eletrônicos no tempo livre.
 
 🎧 Sempre programando com música!
 
