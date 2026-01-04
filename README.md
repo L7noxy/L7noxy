@@ -28,24 +28,42 @@
 
 <br/>
 
-```python
-class Desenvolvedor:
-    def __init__(self, nome, trabalho, local):
-        self.nome = nome
-        self.trabalho = trabalho
-        self.local = local
+```cs
 
-class SobreMim(Desenvolvedor):
-    def __init__(self):
-        super().__init__(
-            nome='Gabriel da Cunha Castanhel',
-            trabalho='Estudante de Desenvolvimento de Sistemas | SENAI',
-            local='Florianópolis, SC - Brasil'
-        )
-        self.objetivo = 'Futuro Desenvolvedor Full Stack'
+using System;
+using System.Collections.Generic;
 
-gabriel = SobreMim()
-print(gabriel.__dict__)
+public class SobreMim
+{
+    public static void Main(string[] args)
+    {
+        var desenvolvedor = new
+        {
+            Nome = "Gabriel da Cunha Castanhel",
+            Localizacao = "Brasil",
+            Idiomas = new[] { "Português", "Inglês" }
+        };
+
+        var stackTecnica = new Dictionary<string, string[]>
+        {
+            { "Frontend", new[] { "React", "Next.js", "TypeScript", "Bootstrap" } },
+            { "Backend",  new[] { "Node.js", "PHP", "Prisma", "C#" } },
+            { "Mobile/Games", new[] { "Unity" } },
+            { "DevOps/Tools", new[] { "Docker", "Git", "Postman", "VS Code" } },
+            { "Database", new[] { "PostgreSQL", "MongoDB" } }
+        };
+
+        Console.WriteLine($"Olá! Eu sou {desenvolvedor.Nome}.");
+        
+        Console.WriteLine("\n--- Minha Stack Tecnológica ---");
+        foreach (var categoria in stackTecnica)
+        {
+            Console.WriteLine($"{categoria.Key}: {string.Join(", ", categoria.Value)}");
+        }
+
+        Console.WriteLine("\n\"Transformando ideias em soluções reais, um commit por vez.\"");
+    }
+}
 ```
 
 <br/>
