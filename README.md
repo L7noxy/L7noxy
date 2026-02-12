@@ -115,9 +115,9 @@ public class SobreMim
 <br/>
 
 <p align="center" style="background: rgba(255, 255, 255, 0.15); border-radius: 90px; padding: 20px; backdrop-filter: blur(10px);">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L7noxy&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7noxy&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" alt="Top langs"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=L7noxy&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Castanhel&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Castanhel&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" alt="Top langs"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Castanhel&theme=tokyonight"/>
 
 </p>
 
