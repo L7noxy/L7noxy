@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="35px" />
 
-[![GitHub Followers](https://img.shields.io/github/followers/L7noxy?style=social)](https://github.com/L7noxy)
-![profile-views](https://komarev.com/ghpvc/?username=L7noxy-sc-08&color=red)
+[![GitHub Followers](https://img.shields.io/github/followers/Gabriel-Castanhel?style=social)](https://github.com/L7noxy)
+![profile-views](https://komarev.com/ghpvc/?username=Gabriel-Castanhel-sc-08&color=red)
 
 ![Image](https://github.com/user-attachments/assets/8cc5e977-a563-43f3-967e-1e8b999fc9cd)
 ---
